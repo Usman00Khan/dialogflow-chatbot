@@ -16,6 +16,6 @@ export const environment = {
     production: false,
 
     dialogflow: {
-        angularBot: '95d8f71771f6499f9ed1baa3a6fdfc61ya29.c.Kp0B9Ac-XPsyO_bednUeJkkNb2quAZhRz8yrmyiAiOY6i3pORvGNCbn9VG2Gzpev8fvR6jQbAjJYvROf1HCL9f9JhCOJ6uoYyv9df_ry_pzMEhFWbxw6mr5p1GvDDqLAMZxwAglfiV8YvOdR_DdOvScABEztzfclqy1ZnB_oCOjpbOO3AaHQ9yLJ8cO0sx0EVlw13GdEnA-gNJeX9VN4cA'
+        angularBot: 'hack-mindpalace'
     }
 };   
