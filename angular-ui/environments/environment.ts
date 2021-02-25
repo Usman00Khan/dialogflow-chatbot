@@ -16,6 +16,6 @@ export const environment = {
     production: false,
 
     dialogflow: {
-        angularBot: '13f0e7adf9a9aa58ff1eb76c6e2a25c7c285383f'
+        angularBot: 'AIzaSyDCn0puepruydu70z7f067aE6dfPF5sNlQ'
     }
 };   
