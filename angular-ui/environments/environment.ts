@@ -16,6 +16,6 @@ export const environment = {
     production: false,
 
     dialogflow: {
-        angularBot: 'AIzaSyDCn0puepruydu70z7f067aE6dfPF5sNlQ'
+        angularBot: 'ya29.A0AfH6SMBePEpFdy0wTfjvTVJ1hy_24UBgBGq6-ffAHZiW5xgeqBb4CwMaC83OniVMbjo-9P2gV-VtXfl9cp336jnYgxPGl_MRZLxRPOAhK-A1zrw1YaB8xKoG1UF7oYGwSk_u_IlcXokvAMQgsz4GKHohqP7xtR3dhwAWrxfwU2qQcozPAiBYfOVMv1d4SsDoyYtxtz4RhpiOsQuxwxPrUM0lBsRsVbhy6JfWPnSKepkUOJd3S_WiFILY2wksVOdbZKNefHw'
     }
 };   
