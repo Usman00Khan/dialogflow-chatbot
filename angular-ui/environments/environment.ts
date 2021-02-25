@@ -16,6 +16,6 @@ export const environment = {
     production: false,
 
     dialogflow: {
-        angularBot: 'ya29.A0AfH6SMBePEpFdy0wTfjvTVJ1hy_24UBgBGq6-ffAHZiW5xgeqBb4CwMaC83OniVMbjo-9P2gV-VtXfl9cp336jnYgxPGl_MRZLxRPOAhK-A1zrw1YaB8xKoG1UF7oYGwSk_u_IlcXokvAMQgsz4GKHohqP7xtR3dhwAWrxfwU2qQcozPAiBYfOVMv1d4SsDoyYtxtz4RhpiOsQuxwxPrUM0lBsRsVbhy6JfWPnSKepkUOJd3S_WiFILY2wksVOdbZKNefHw'
+        angularBot: '95d8f71771f6499f9ed1baa3a6fdfc61ya29.c.Kp0B9Ac-XPsyO_bednUeJkkNb2quAZhRz8yrmyiAiOY6i3pORvGNCbn9VG2Gzpev8fvR6jQbAjJYvROf1HCL9f9JhCOJ6uoYyv9df_ry_pzMEhFWbxw6mr5p1GvDDqLAMZxwAglfiV8YvOdR_DdOvScABEztzfclqy1ZnB_oCOjpbOO3AaHQ9yLJ8cO0sx0EVlw13GdEnA-gNJeX9VN4cA'
     }
 };   
